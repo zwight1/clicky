@@ -1,0 +1,43 @@
+body {
+    background-image: url(http://i0.kym-cdn.com/photos/images/original/001/286/648/f74.jpg);
+}
+
+#crystal {
+    background-color: grey;
+    color: rgb(223, 237, 240);
+    opacity: .9;
+   }
+
+#info {
+    background-color: black;
+    color: rgb(31, 128, 145);
+    opacity: .9;
+}
+
+#firstBox {
+    background-color: grey;
+    color: rgb(223, 237, 240);
+    opacity: .7;
+   }
+
+#secondBox {
+    background-color:black;
+    color: rgb(31, 128, 145);
+    opacity: .7;
+    }
+
+
+#score {
+    background-color: grey;
+    color: rgb(223, 237, 240);
+    opacity: .7;
+}
+
+#total {
+    background-color: black;
+    color: rgb(31, 128, 145);
+    opacity: .7;
+}
+
+
+

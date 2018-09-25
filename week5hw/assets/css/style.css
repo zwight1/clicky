@@ -1,0 +1,34 @@
+.backGround {
+    background-color: black;
+    color: #4ca4af;
+}
+
+.fixed {
+    position: fixed;
+    top: 350px;
+}
+
+p {
+    padding-left: 15px
+}
+
+.radio-inline {
+    padding-left: 25px
+}
+
+.words{
+    font-size: 50px
+}
+#time {
+    font-size: 50px
+}
+
+#middle
+    {
+        text-align: center;
+        font-size: 55px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding: 10px
+    }
+
+
